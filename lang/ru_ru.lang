@@ -1,0 +1,423 @@
+itemGroup.scp_items=Вещи SCP
+itemGroup.scp_blocks=Строительные Блоки SCP
+itemGroup.scpdocs=Документы SCP
+itemGroup.functional.blocks=Функциональные Блоки SCP
+
+scp.fountain_of_youth.name=Фонтан молодости
+scp.zombie_plague.name=Зомби-чума
+scp.red_ice.name=Красный Лёд
+scp.black_shuck.name=Чёрный Пёс
+scp.plague_doctor.name=Чумный Доктор
+scp.young_girl.name=Юная Девочка
+scp.worlds_best_toothbrush.name=Лучшая в Мире Зубная Щотка
+scp.stairwell.name=Лестница
+scp.old_man.name=Старик
+scp.infinite_canteen.name=Неистощимая Фляга
+scp.dragon_snails.name=Драконьи Улитки
+scp.eye_pods.name=Глаза
+scp.bladewood_grove.name=Острая Роща
+scp.sculpture.name=Скульптура
+scp.3d_specs.name=3D Очки
+scp.dimensional_vending.name=Межпространственный Торговый Автомат
+scp.eyes_in_the_dark.name=Глаза во Тьме
+scp.coffee_machine.name=Кофейный Автомат
+scp.take_only_two.name=Бери Только Две
+scp.contagious_crystal.name=Заразный Кристалл
+scp.infinite_pizza.name=Неистощимая Коробка с Пиццей
+scp.bloodstone.name=Кровавый Камень
+scp.panacea.name=Панацея
+scp.cowbell.name=Коровий Колокольчик
+scp.shadow_spiders.name=Пауки-тени
+scp.landmine_cacti.name=Кактус-Мина
+scp.clockworks.name=Часовой Механизм
+scp.many_voices.name=Многоголосый
+scp.sleep_killer.name=Бесонник
+scp.bigfoot.name=Бигфут
+scp.disease_book.name=Энциклопедия Распространённых Болезней
+scp.builder_bear.name=Медведь-строитель
+scp.hole_in_the_wall.name=Дыра В Стене
+scp.hole_teleporter.name=Дыра в Другое Место
+scp.gas_mask.name=Противогаз
+
+scptile.chamber_block.name=Часть Камеры (914)
+scptile.copper_tube.name=Медная Труба (914)
+scptile.clockwork_base.name=Часть Механизма (914)
+scptile.control_panel.name=Часовой Механизм (914)
+scptile.item_generator.name=Дыра в Другое Место (1437)
+scptile.red_ice.name=Красный Лёд (009)
+scptile.tree_trunk.name=Полено Острой Рощи (143)
+scptile.tree_leaves.name=Листья Острой Рощи (143)
+scptile.replicating_crystal.name=Заразный Кристалл (409)
+scptile.explosive_cactus.name=Кактус-Мина (822)
+scptile.coffeemachine.name=Кофейный Автомат (294)
+scptile.vending_machine.name=Межпространственный Торговый Автомат (261)
+scptile.wall087.name=Стена (087)
+scptile.platform087.name=Лестничная Площадка (087)
+scptile.scp087_spawner.name=Спонер 087-1
+scptile.foundationceilinggrate.name=Потолочная Решетка
+scptile.pdcorridorfloor.name=Пол Коридора Карманного Измерения
+scptile.pdfloor.name=Пол Карманного Измерения
+scptile.foundationmeshfloor.name=Решетчатый Пол
+scptile.foundationceiling.name=Потолок
+scptile.foundationwhitewall.name=Белая Стена
+scptile.reinforcedwalla.name=Укрепленная Стена A
+scptile.reinforcedwallb.name=Укрепленная Стена Б
+scptile.reinforcedwallc.name=Укрепленная Стена В
+scptile.foundationcontainmentfloor.name=Пол Содержания
+
+scptile.foundationvent.name=Вентиляция
+scptile.foundationplasterwall.name=Гипсовая Стена
+scptile.concrete.name=Бетон
+scptile.foundationfloora.name=Пол A
+scptile.foundationfloorb.name=Пол Б
+scptile.foundationwalla.name=Стена A
+scptile.foundationwallb.name=Стена Б
+scptile.foundationwallc.name=Стена В
+scptile.foundationwalld.name=Стена Г
+scptile.foundationwalle.name=Стена Д
+scptile.foundationwallf.name=Стена Е
+scptile.foundationwallg.name=Стена Ж
+scptile.steel.name=Сталь
+scptile.foundationceilingtile.name=Потолковая Плитка
+scptile.foundationexteriorbottom.name=Пол Экстерьера
+scptile.foundationexteriormiddle.name=Середина Экстерьера
+scptile.foundationexteriortop.name=Потолок Экстерьера
+scptile.foundationmedicalmiddle.name=Срединный Медицинский Блок
+scptile.foundationmedicalbottom.name=Донный Медицинский Блок
+scptile.foundationofficetop.name=Офисный Верх
+scptile.foundationofficebottom.name=Офисный Низ
+scptile.foundationpipewall.name=Трубчатая Стена
+scptile.foundationoldwhitewall.name=Старая Белая Стена
+scptile.sublevelwall.name=Подуровневая Стена
+scptile.pd.name=Блок Карманного Измерения
+scptile.pdcorridora.name=Коридор Карманного Измерения A
+scptile.pdcorridorc.name=Коридор Карманного Измерения В
+scptile.pdcorridorb.name=Коридор Карманного Измерения Б
+scptile.eye.name=Глаз
+scptile.hole_in_the_wall.name=Дыра в Стене (1162)
+scptile.hole_in_the_wall_concrete.name=Бетон (1162)
+scptile.item_plate.name=Витрина
+scptile.table.name=Стол
+scptile.file_cabinet.name=Картотека
+scptile.shelf.name=Полка
+scptile.lamp.name=Лампа
+scptile.computer.name=Компьютер
+scptile.card_reader.name=Считыватель Карт
+scptile.scp330.name=Бери Только Две (330)
+scptile.sliding_door.name=Скользящая Дверь
+scptile.sliding_door2.name=Скользящая Дверь
+scptile.desk.name=Рабочий Стол
+scptile.document_machine.name=Собиратель Документов
+scptile.tree_trunk.name=Бревно Острой Рощи (143)
+scptile.sapling.name=Саженец Острой Рощи (143)
+scptile.reinforced_iron.name=Укрепленное Железо
+scptile.fountain_of_youth_liquid.name=Жидкость Фонтана Молодости (006)
+scptile.red_liquid.name=Жидкость Алого Озера (354)
+scptile.spider_fluid.name=Теневая Жидкость
+scptile.infinite_pizza.name=Неистощимая Коробка с Пиццей (458)
+scptile.bloodstone.name=Кровавый Камень (472)
+scptile.floor1499.name=Основание (1499)
+scptile.structure1499.name=Строительный Блок (1499)
+scptile.small_lamp.name=Маленькая Лампа
+scptile.metal914.name=Металл (914)
+scptile.cogs914.name=Шестеренки (914)
+
+scptile.log860.name=Дерево (860)
+
+scptile.path860.name=Тропа (860)
+scptile.dirt860.name=Земля (860)
+
+scptile.sapling860.name=Саженец (860)
+scptile.leaves860.name=Листья (860)
+
+scptile.opaque_trapdoor.name=Непрозрачный Люк
+scptile.telekill_ore.name=Телеубийственная Руда (148)
+scptile.gel_block.name=Блок Геля
+scptile.living_room_flesh1.name=Плоть A (002)
+scptile.living_room_flesh2.name=Плоть Б (002)
+scptile.living_room_metal.name=Металл (002)
+scptile.ventilation.name=Вентиляция
+scptile.grate.name=Решетка
+scptile.008_container.name=Образцы Зомби-чумы (008)
+scptile.heat_resistant_alloy.name=Тугоплавкий Сплав
+scptile.telekill_block.name=Телеубийственный Блок
+scptile.platform087.stairs.name=Лестница (087)
+scptile.sturdy_planks.name=Доски Острой Рощи
+scptile.blast_glass.name=Взрывоупорное Стекло
+scptile.fertile_soil.name=Плодородная почва (124)
+scptile.eternal_candle.name=Вечная свеча
+scptile.monster_pot.name=Чудовищная ваза (019)
+scptile.cooler.name=Кулер
+
+scptile.foundationwalla.stairs.name=Ступени Стены 'A'
+scptile.foundationwallb.stairs.name=Ступени Стены  'Б'
+scptile.foundationwallc.stairs.name=Ступени Стены  'В'
+scptile.foundationwhitewall.stairs.name=Белая Ступени
+scptile.foundationfloora.stairs.name=Ступени Пола 'A'
+scptile.foundationfloorb.stairs.name=Ступени Пола 'Б'
+scptile.reinforcedwalla.stairs.name=Ступени Укрепленной Стены 'A'
+scptile.reinforcedwallb.stairs.name=Ступени Укрепленной Стены 'Б'
+scptile.reinforcedwallc.stairs.name=Ступени Укрепленной Стены 'В'
+scptile.sublevelwall.stairs.name=Ступени Подуровневой Стены
+scptile.hunter_in_the_dark.name=Призрак во тьме (689)
+scptile.butterfly_nest.name=553 Гнездо
+
+scptile.one_way_glass_0.name=Белая Наблюдательная Панель
+scptile.one_way_glass_1.name=Оранжевая Наблюдательная Панель
+scptile.one_way_glass_2.name=Пурпурная Наблюдательная Панель
+scptile.one_way_glass_3.name=Голубая Наблюдательная Панель
+scptile.one_way_glass_4.name=Желтая Наблюдательная Панель
+scptile.one_way_glass_5.name=Светло-зеленая Наблюдательная Панель
+scptile.one_way_glass_6.name=Розовая Наблюдательная Панель
+scptile.one_way_glass_7.name=Серая Наблюдательная Панель
+scptile.one_way_glass_8.name=Серебряная Наблюдательная Панель
+scptile.one_way_glass_9.name=Циановая Наблюдательная Панель
+scptile.one_way_glass_10.name=Фиолетовая Наблюдательная Панель
+scptile.one_way_glass_11.name=Синяя  Наблюдательная Панель
+scptile.one_way_glass_12.name=Коричневая Наблюдательная Панель
+scptile.one_way_glass_13.name=Зеленая Наблюдательная Панель
+scptile.one_way_glass_14.name=Красная Наблюдательная Панель
+scptile.one_way_glass_15.name=Черная Наблюдательная Панель
+
+scptile.one_way_glass_cube_0.name=Белое Наблюдательное Стекло
+scptile.one_way_glass_cube_1.name=Оранжевое Наблюдательное Стекло
+scptile.one_way_glass_cube_2.name=Пурпурное Наблюдательное Стекло
+scptile.one_way_glass_cube_3.name=Голубое Наблюдательное Стекло
+scptile.one_way_glass_cube_4.name=Жёлтое Наблюдательное Стекло
+scptile.one_way_glass_cube_5.name=Светло-зеленое Наблюдательное Стекло
+scptile.one_way_glass_cube_6.name=Розовое Наблюдательное Стекло
+scptile.one_way_glass_cube_7.name=Серое Наблюдательное Стекло
+scptile.one_way_glass_cube_8.name=Серебряное Наблюдательное Стекло
+scptile.one_way_glass_cube_9.name=Циановое Наблюдательное Стекло
+scptile.one_way_glass_cube_10.name=Фиолетовое Наблюдательное Стекло
+scptile.one_way_glass_cube_11.name=Синее Наблюдательное Стекло
+scptile.one_way_glass_cube_12.name=Коричневое Наблюдательное Стекло
+scptile.one_way_glass_cube_13.name=Зеленое Наблюдательное Стекло
+scptile.one_way_glass_cube_14.name=Красное Наблюдательное Стекло
+scptile.one_way_glass_cube_15.name=Черное Наблюдательное Стекло
+
+scptile.personal_computer.name=Персональный Компьютер
+
+stairs=Ступени
+
+fluid.fountain_of_youth_liquid=Жидкость Фонтана Молодости (006)
+fluid.red_liquid=Жидкость Алого Озера (354)
+fluid.spider_fluid=Теневая Жидкость
+
+scpitem.tree_petals.name=Листья Острой Рощи
+scpitem.processed_log.name=Обработанное Бревно
+scpitem.tree_material.name=Крепкий Материал
+scpitem.panacea_pills.name=Пилюля Панацеи (500)
+scpitem.water_canteen.name=Неистощимая Фляга (109)
+scpitem.super_toothbrush.name=Лучшая в Мире Зубная Щетка (063)
+scpitem.sturdy_sword.name=Крепкий Меч
+scpitem.sturdy_axe.name=Крепкий Топор
+scpitem.sturdy_pickaxe.name=Крепкая Кирка
+scpitem.sturdy_shovel.name=Крепкая Лопата
+scpitem.sturdy_hoe.name=Крепкая Мотыга
+scpitem.sturdy_chestplate.name=Крепкие Доспехи
+scpitem.sturdy_helmet.name=Крепкий Шлем
+scpitem.sturdy_boots.name=Крепкие Сапоги
+scpitem.sturdy_leggings.name=Крепкие Штаны
+scpitem.ash.name=Пепел
+scpitem.burnt_bone.name=Обгоревшая Кость
+scpitem.heart.name=Сердце
+scpitem.kidney.name=Почка
+scpitem.lung.name=Лёгкое
+scpitem.toilet.name=Туалет
+scpitem.table.name=Стол
+scpitem.office_chair.name=Офисный Стул
+scpitem.file_cabinet.name=Картотека
+scpitem.shelf.name=Полка
+scpitem.lamp.name=Лампа
+scpitem.computer.name=Компьютер
+scpitem.nightvision_goggles.name=Очки Ночного Видения
+scpitem.hazard_suit.name=Костюм Химзащиты
+scpitem.desk.name=Рабочий Стол
+scpitem.omnicard.name=Универсальная Карта
+scpitem.level1card.name=Карта Уровня 1
+scpitem.level2card.name=Карта Уровня 2
+scpitem.level3card.name=Карта Уровня 3
+scpitem.level4card.name=Карта Уровня 4
+scpitem.level5card.name=Карта Уровня 5
+scpitem.recipe_viewer.name=Инфо-планшет
+scpitem.paper_scrap.name=Обрывок Бумаги
+scpitem.screwdriver.name=Отвёртка
+scpitem.syringe.name=Зомби-чума (008)
+scpitem.pizza.name=Кусок Пиццы
+scpitem.gas_mask.name=Противогаз (1499) [WIP]
+scpitem.blue_key.name=Синий Ключ (860)
+scpitem.scp330.name=Бери Только Две (330)
+scpitem.3d_specs.name="3-D" Очки (178)
+scpitem.disease_encyclopedia.name=Энциклопедия Распространенных Заболеваний (1025)
+scpitem.cowbell.name=Ржавый Коровий Колокольчик (513)
+scpitem.valve_door.name=Дверь с Рукоятью
+scpitem.telekill_diamond_helmet.name=Телеубийственный Шлем
+scpitem.telekill_diamond_chestplate.name=Телеубийственные Доспехи
+scpitem.telekill_diamond_leggings.name=Телеубийственные Штаны
+scpitem.telekill_diamond_boots.name=Телеубийственные Сапоги
+scpitem.telekill_sword.name=Телеубийственный Меч
+scpitem.telekill_axe.name=Телеубийственный Топор
+scpitem.telekill_pickaxe.name=Телеубийственная Кирка
+scpitem.telekill_shovel.name=Телеубийственная Лопата
+scpitem.telekill_hoe.name=Телеубийственная Мотыга
+
+scpitem.330a.name=Красная Конфета
+scpitem.330b.name=Фиолетовая Конфета
+scpitem.330c.name=Оранжевая Конфета
+scpitem.330d.name=Синяя Конфета
+scpitem.330e.name=Жёлтая Конфета
+scpitem.330f.name=Зелёная Конфета
+scpitem.330g.name=Голубая Конфета
+
+scpitem.battery.name=Батарея
+scpitem.flashlight.name=Фонарь
+scpitem.unusual_battery.name=Телеубийственная Батарея
+scpitem.unusual_ingot.name=Телеубийственный Слиток (148)
+scpitem.arrow_proof_vest.name=Стрелоупорный Жилет
+scpitem.door087.name=Дверь (087)
+scpitem.blast_door.name=Взрывостойкая Дверь
+scpitem.office_door.name=Офисная Дверь
+scpitem.label.name=Ярлык
+scpitem.syringe_empty.name=Пустой Шприц
+scpitem.simple_chair.name=Обычный Стул
+
+entity.plague_doctor.name=Чумный Доктор (049)
+entity.black_shuck.name=Чёрный Пес (023)
+entity.plague_zombie.name=SCP 049-2
+entity.scp087-1.name=SCP 087-1
+entity.old_man.name=Старик (106)
+entity.dark_eyes.name=Глаза во Тьме (280)
+entity.eye_pod.name=Глаза (131)
+entity.builder_bear_c.name=Медведь-строитель (1048-C)
+entity.builder_bear_a.name=Медведь-строитель (1048-A)
+entity.builder_bear.name=Медведь-строитель (1048)
+
+entity.glow_drake.name="Glowdrake" (111)
+entity.blob_worm.name="Blobworm" (111)
+entity.goo_wyvern.name="Goo Wyvern" (111)
+entity.gunk_wyvern.name="Gunk Wyvern" (111)
+entity.ooze_drake.name="Oozedrake" (111)
+entity.slimy_belly.name="Slimy Belly" (111)
+
+entity.scp513-1.name=SCP 513-1
+entity.scp966.name=Убийца Сна (966)
+entity.killer_statue.name=Скульптура (173)
+entity.bigfoot.name=Бигфут (1000)
+entity.spec_ghost.name=Призрак-рвач
+entity.shadow_spider.name=Паук-тень (538)
+entity.young_girl.name=Юная Девочка (053)
+entity.with_many_voices.name=Многоголосый (939)
+
+entity.deviant.name=Deviant
+
+tile.tree_leaves.name=Листья Острой Рощи (143)
+tile.fence087.name=Забор (087)
+tile.heavy_button.name=Тяжёлая кнопка
+
+
+item.dragoneggblobworm.name=Яйцо "Blobworm"
+item.dragoneggglowdrake.name=Яйцо "Glowdrake"
+item.dragonegggoowyvern.name=Яйцо "Goowyvern"
+item.dragonegggunkwyvern.name=Яйцо "Gunkwyvern"
+item.dragoneggoozedrake.name=Яйцо "Oozedrake"
+item.dragoneggslimybelly.name=Яйцо "Slimybelly"
+
+scpitem.door860.name=Дверь (860)
+
+death.attack.hole.damage=%1$s потерял слишком много жизненно важных органов
+death.attack.infest.damage=%1$s вылупился в тени
+death.attack.heart.damage=%1$s помер от сердечного приступа
+death.attack.zombie_plague=%1$s умер от зомби-чумы
+death.attack.cogs.damage=%1$s был сокрушён шестерёнками
+death.attack.bear_a_scream=%1$s умер от удушья
+death.attack.mob.sleep_depriver=%1$s был съеден %2$s
+death.attack.shuck_gaze=%1$s умер от вида Чёрного Пса
+death.attack.age=%1$s умер от старости
+death.attack.drowning=%1$s утонул
+death.attack.radiation=%1$s умер от радиации
+death.attack.crushed=%1$s был раздавлен
+
+scppotion.sleep_deprivation=Недостаток сна
+scppotion.aggression=Аггрессия
+scppotion.anxiety=Тревога
+scppotion.guilt=Чувство Вины
+scppotion.paranoia=Паранойя
+scppotion.black_shuck_curse=Проклятие Чёрного Пса
+
+translationKey.category.scp=Обезопасить, Удерживать, Защищать
+translationKey.scp.nightvision_toggle=Переключить ночное видение
+
+scp.plague.doctor.talk1=Привет
+scp.plague.doctor.talk2=Приветствую
+scp.plague.doctor.talk3=Ох, еще одна жертва болезни
+scp.plague.doctor.talk4=Ты не доктор
+scp.plague.doctor.talk5=Я чувствую болезнь в тебе
+scp.plague.doctor.talk6=Я единственное лечение поветрия
+scp.plague.doctor.attacked1=Я есть лекарство
+scp.plague.doctor.attacked2=Прекрати сопротивляться, я хочу вылечить тебя
+
+scp.gui.doc_crafter.available_scps=Доступные SCP:
+scp.gui.doc_crafter.purchase_document=Получить документ
+scp.gui.doc_crafter.purchase_label=Получить ярлык
+scp.gui.doc_crafter.scraps_required=Требуется %1$s обрывков бумаги
+scp.gui.doc_crafter.scraps_needed=Нужно ещё %1$s
+
+scp.coffee.machine.message=Требуются 3 железных слитка, бутылка или ведро
+scp.coffee.machine.invalid.item=Ты держишь неподходящий предмет для Кофейного Автомата
+scp.coffee.machine.dispense=Выдать
+
+scp.gui.url_setter.confirm=Подтвердить
+scp.gui.url_setter.cancel=Отменить
+scp.gui.url_setter.url=Ссылка
+
+scp.player.cant.sleep=Ты совсем не можешь спать
+scp.player.sleep.disable=Почему в моих ушах звон?
+
+scp.nightvision.no.power=У очков нет энергии
+scp.nightvision.disable=Ночное видение выключено
+scp.nightvision.enable=Ночное видение включено
+scp.nightvision.button.not.found=Ты не можешь найти кнопку включения ночного видения
+scp.nightvision.power.off=Очки внезапно выключились
+scp.nightvision.desc=Нажми %1$s для переключения ночного видения
+
+scp.misc.item.not_enchantable=Эту вещь невозможно зачаровать
+
+# Ключи общей информации:
+
+scp.document_crafter=Собиратель документов
+scp.paper_scrap=Обрывок бумаги
+
+# Разное:
+
+scp.saw.haunter=Ты увидел Haunter
+scp.document.unfinished=Этот SCP не завершён
+scp.cant.replace=Нельзя удалить
+scp.level.changed.to=Уровень доступа изменен на
+scp.level=Уровень
+scp.card.required= нужна карта
+scp.no.inventory.space=Нет места в инвентаре
+scp.gold.needed=Необходим слиток золота
+scp.you.feel.empty=Ты чувствуешь пустоту в себе
+scp.you.found.nothing=Ты ничего не находишь внутри
+scp.hide.in.shadows=Ты должен прятаться в тени...
+scp.you.caught.something=Тебе кажется, что ты подхватил что-то
+scp.you.looked.at=Ты посмотрел на
+scp.flashlight.stopped.working=Фонарь перестал работать
+scp.flashlight.turned.off=Фонарь внезапно выключился
+scp.knowledge.unlocked.of=Ты открыл знание про
+scp.no.associated.file.found=Не найден подходящий файл на вашем языке; загружен файл на английском
+scp.shift.click.for.preview=Shift + правый клик для предпросмотра
+scp.clockworks.busy=Механизм занят
+scp.shift.right.click.info=Shift + правый клик для открытия экрана знаний
+scp.scroll.hint=Отсортировано по алфавиту; используй колесико мыши для прокрутки
+scp.use.screwdriver.cardreader=Используй Отвертку для смены уровня доступа
+scp.show.general.info=Открыть общую информацию
+scp.open.scp.info=Открыть SCP информацию
+scp.light.set.to=Уровень света
+scp.start.by.info.tablet=Для введения в SCP, собери Инфо-планшет
+scp.activate=Активировать
+scp.dictionary.match=Использовать Словарь
+scp.dictionary.match.not=Не использовать Словарь
+
+
