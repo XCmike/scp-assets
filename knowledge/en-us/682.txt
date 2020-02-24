@@ -1,4 +1,4 @@
-Hard-to-destroy Reptile:
+Hard-to-destroy Reptile
 
 This is another hostile mob that attacks almost all types of entities, driven by its hatred of life.
 It has dynamic size; it increases when the reptile successfully damages a victim, and decreases when it receives damage;
