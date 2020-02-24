@@ -1,0 +1,3 @@
+Young Girl - a small 3 years old girl. Some kind of power draws mobs to her in 8 block radius. They will attempt to
+damage the girl, but the damage will be reflected back to attacker. Same applies for players; additionally players
+might start hitting things uncontrollably.

@@ -1,0 +1,2 @@
+The Painting - this is an oil painting, apparently from the perspective of someone underwater. If the painting occurs
+inside a player's view, he will start "drowning".

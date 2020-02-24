@@ -1,0 +1,2 @@
+Broken Telekill Sword is a creative-mode only item.
+It's only purpose is to kill any SCP creature or other mob with one hit (right-click).

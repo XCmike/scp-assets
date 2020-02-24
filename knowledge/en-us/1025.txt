@@ -1,0 +1,1 @@
+Encyclopedia of Diseases - this book applies a random negative potion effect to the player.

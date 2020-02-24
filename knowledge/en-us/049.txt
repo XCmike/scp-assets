@@ -1,0 +1,2 @@
+Plague Doctor - a hostile humanoid, who attempts to "cure" (attack) players on sight. His attack poisons the player.
+If a player is killed by doctor's melee attack, he will turn into a plague "zombie".
