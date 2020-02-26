@@ -7,6 +7,6 @@ will gain one. This is stage 1.
 On stage 2, victims will become aggressive to humans if they aren't already;
 	players will gain weakness, mining fatigue and slowness; victims will look greenish.
 On stage 3, players negative effects will worsen.
-On stage 4, 008 will start killing its host. If the host is a player, he will turn into Plague Zombie on death.
+On stage 4, 008 will start killing its host. If the host is a player, he will turn into a Plague Zombie on death.
 
 The victims are infectious on any stage of the plague, and will spread it on physical contact.

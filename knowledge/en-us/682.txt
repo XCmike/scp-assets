@@ -6,3 +6,4 @@ its maximum size is ~3 blocks high and ~4 blocks wide.
 It destroys any leaves and non-significant blocks around for easier navigation.
 It is immune to everything except "out of world" damage, while the Hydrochloric acid damages it until it has 33% of max health.
 It doesn't attack flying SCPs.
+It is able to climb in order to reach its victim.

@@ -1,1 +1,3 @@
-Skeleton Key - it's an item which is able to open any door.
+Skeleton Key
+
+ It's an item which is able to open any door.

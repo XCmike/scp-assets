@@ -390,6 +390,8 @@ scpitem.swat_chest.name=SWAT Chestplate
 scpitem.swat_leggings.name=SWAT Leggings
 scpitem.swat_boots.name=SWAT Boots
 
+scpitem.document_grace.name=Grace
+
 item.dragoneggblobworm.name=Blobworm Egg
 item.dragoneggglowdrake.name=Glowdrake Egg
 item.dragonegggoowyvern.name=Goowyvern Egg
@@ -397,7 +399,7 @@ item.dragonegggunkwyvern.name=Gunkwyvern Egg
 item.dragoneggoozedrake.name=Oozedrake Egg
 item.dragoneggslimybelly.name=Slimybelly Egg
 
-item.tranq_arrow.name=Disorienting Arrow
+item.tranq_arrow.name=Tranquilizing Arrow
 
 #Entities:
 
@@ -617,6 +619,7 @@ scp.data_bank=Data Bank
 scp.token=Token
 scp.command_baton=Command Baton
 scp.d_personnel=D-class Personnel
+scp.tranq_arrow=Tranquilizing Arrow
 
 # Other:
 
@@ -662,7 +665,7 @@ scp.you.looked.at=You looked at
 scp.flashlight.stopped.working=The flashlight stopped working
 scp.flashlight.turned.off=The flashlight suddenly turned off
 scp.knowledge.unlocked.of=You unlocked knowledge about
-scp.no.associated.file.found=No associated file found in your language; falling back to English
+scp.no.associated.file.found=No associated files found in your language; falling back to English
 scp.shift.click.for.preview=Shift + right click for placement preview
 scp.clockworks.busy=The Clockworks is busy
 scp.shift.right.click.info=Shift + right click to open knowledge GUI
