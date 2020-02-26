@@ -7,3 +7,5 @@ You can submit changes to them, or localize to your language.
 * "knowledge" folder: holds information about SCPs that is accessed in-game using Information Tablet.
 * "modinfo" folder: holds miscellaneous information that is accessed in-game using said Tablet, but 
 by Shift + right-clicking it.
+
+All approved changes will be incorporated into the mod.
