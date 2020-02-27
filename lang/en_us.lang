@@ -461,6 +461,7 @@ entity.scp.living_armor.name=Autonomous SWAT Armor (912)
 entity.scp.scp_3199.name=Humans, Refuted (3199)
 entity.scp.scp682.name=Hard-to-Destroy Reptile (682)
 entity.scp.scp3199hatchling.name=3199 Hatchling
+entity.scp3199egg.name=3199 Egg
 
 #Death messages:
 
